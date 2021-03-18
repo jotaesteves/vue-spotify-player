@@ -223,11 +223,3 @@ body {
   flex: 1;
 }
 </style>
-
-
-/*
-
-Finish exercies and email to interviewer Jonas
-put Janina in CC
-
- */
